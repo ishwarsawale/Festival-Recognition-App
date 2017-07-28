@@ -13,14 +13,20 @@
 
 2.  download required data and arrange as following
     $HOME/tf_files/mydata/Diwali
+
                  /mydata/Holi
+
                  /mydata/Birthday
+
                  /mydata/Marriage
+
                  /mydata/Eid
 
 3.  Install docker just google for it
 
 4.  cd $HOME/tf_files, download retrain script
+
+
 	curl -O https://raw.githubusercontent.com/tensorflow/tensorflow/r1.1/tensorflow/examples/image_retraining/retrain.py
 
 5.  now run docker, make sure you have good internet connection
@@ -44,12 +50,16 @@
 ### To optimized our retrained model for Android Platform
 
 7.  once you finished training git clone into $HOME
+
     git clone https://github.com/googlecodelabs/tensorflow-for-poets-2
 
 8.  now cd into $HOME/tensorflow-for-poets-2/ and run following command
+
     cp -r ~/tf_files .
 
 9.  now run new docker 
+
+
 	   docker run -it \
 	  --publish 6006:6006 \
 	  --volume ${HOME}/tensorflow-for-poets-2:/tensorflow-for-poets-2 \
@@ -57,6 +67,8 @@
 	  tensorflow/tensorflow:nightly-devel
 
 10. optimized graph as follows
+
+
 	  python -m tensorflow.python.tools.optimize_for_inference \
 	  --input=tf_files/retrained_graph.pb \
 	  --output=tf_files/optimized_graph.pb \
@@ -76,10 +88,13 @@
 # Changes in android demo code
 
 12. now copy rounded graph and into your asset folder
+
     cp tf_files/rounded_graph.pb tf_files/retrained_labels.txt android/assets/ 
 
 13. now in android/assets folder rename rounded_graph to retrained_graph
+
     cd $HOME/tensorflow-for-poets-2/android/assets
+    
     mv rounded_graph.pb retrained_graph.pb
 
 14. Open in Android Studion and rebuild 
