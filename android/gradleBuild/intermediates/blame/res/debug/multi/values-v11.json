@@ -1,0 +1,89 @@
+[
+    {
+        "outputFile": "C:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 10,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 217,
+                        "endLine": 9,
+                        "endColumn": 10,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endLine": 7,
+                    "endColumn": 10,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 782,
+                        "endLine": 21,
+                        "endColumn": 10,
+                        "endOffset": 948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endLine": 14,
+                    "endColumn": 10,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 351,
+                        "endLine": 17,
+                        "endColumn": 10,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 64,
+                    "endOffset": 839
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\res\\values-v11\\template-styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 65,
+                        "endOffset": 743
+                    }
+                }
+            }
+        ]
+    }
+]

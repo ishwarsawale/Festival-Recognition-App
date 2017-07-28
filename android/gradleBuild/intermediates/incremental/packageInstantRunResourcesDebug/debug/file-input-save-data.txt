@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Jul 27 14:42:52 IST 2017
+2.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_camera.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_action_info.png
+4.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\camera_connection_fragment.xml
+5.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_
+8.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\assets\\debug\\retrained_graph.pb
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\assets\\debug\\retrained_labels.txt
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\camera_connection_fragment_tracking.xml
+10.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_
+1.set=ASSET
+7.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_
+8.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\assets\\debug
+3.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\assets\\debug
+9.base=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=C\:\\Users\\Admin\\Downloads\\aaaa\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\camera_connection_fragment_stylize.xml
+8.set=ASSET
+0.set=ANDROID_RESOURCE
