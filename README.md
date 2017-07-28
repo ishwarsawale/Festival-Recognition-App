@@ -24,6 +24,7 @@
 	curl -O https://raw.githubusercontent.com/tensorflow/tensorflow/r1.1/tensorflow/examples/image_retraining/retrain.py
 
 5.  now run docker, make sure you have good internet connection
+		
 		docker run -it \
 		  --publish 6006:6006 \
 		  --volume ${HOME}/tf_files:/tf_files \
