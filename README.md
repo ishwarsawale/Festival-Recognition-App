@@ -14,17 +14,20 @@
 2.  download required data and arrange as following
 
 
-    $HOME/tf_files
+    	$HOME/tf_files
 
-    			/mydata/Diwali
+    			
 
-                 /mydata/Holi
+	                 /mydata/Holi
 
-                 /mydata/Birthday
+	                 /mydata/Diwali
 
-                 /mydata/Marriage
+	                 /mydata/Birthday
 
-                 /mydata/Eid
+	                 /mydata/Marriage
+
+	                 /mydata/Eid
+
 
 3.  Install docker just google for it
 
