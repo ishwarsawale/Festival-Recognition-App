@@ -96,7 +96,7 @@
 
 12. now copy rounded graph and into your asset folder
 
-    	cp tf_files/rounded_graph.pb tf_files/retrained_labels.txt android/assets/ 
+    	cp $HOME/tensorflow-for-poets-2/tf_files/rounded_graph.pb tf_files/retrained_labels.txt android/assets/ 
 
 13. now in android/assets folder rename rounded_graph to retrained_graph
 
